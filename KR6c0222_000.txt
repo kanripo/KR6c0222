@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說帝釋般若波羅蜜多心經
+#+DATE: 2015-08-30 19:46:59.497485
+#+PROPERTY: JUAN 0
