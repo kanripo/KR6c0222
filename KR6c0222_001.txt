@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:59.294361
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 7:28
 #+TITLE: 佛說帝釋般若波羅蜜多心經
 #+PROPERTY: CBETA_ID T08n0249
 #+PROPERTY: ID KR6c0222
@@ -83,9 +83,9 @@ No.249¶
 　三寶波羅蜜。
 　無量功德海，¶
 　供養諸如來，
-　大明真祕密。
+　大明真祕密。」
 #+END_VERSE
-」¶
+¶
 
 「真言曰：¶
 
